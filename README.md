@@ -23,4 +23,4 @@ binlog-format=ROW
  		  -e canal.instance.tsdb.enable=true \
  		  -e canal.instance.gtidon=false 
 
-4. 参考example里的例子,编写canal client短程序
+4. 参考example里的例子,编写canal client端程序
